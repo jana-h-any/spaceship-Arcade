@@ -110,10 +110,10 @@ void timer(int value) {
 void keyboard(unsigned char key, int x, int y) {
     if (currentState == MENU) {
         if (key == '1') {
-            system("\"E:\\jana\\opengl projects\\ConsoleApplication3\\Debug\\ConsoleApplication3.exe\"");
+            system("\"E:\\jana\\opengl projects\\Flappy Spaceship\\Debug\\Flappy Spaceship.exe\"");
         }
         else if (key == '2') {
-            system("\"E:\\jana\\opengl projects\\ConsoleApplication5\\Debug\\ConsoleApplication5.exe\"");
+            system("\"E:\\jana\\opengl projects\\Spaceship Defender\\Debug\\Spaceship Defender.exe\"");
         }
     }
     else if (key == 27) {
@@ -149,3 +149,4 @@ int main(int argc, char** argv) {
     glutMainLoop();
     return 0;
 }
+
