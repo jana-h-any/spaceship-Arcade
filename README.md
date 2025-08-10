@@ -1,90 +1,96 @@
-🚀 Spaceship Arcade
-🌌 Overview
-Spaceship Arcade is a C++ project built with OpenGL/GLUT, featuring two space-themed games in one package:
 
-🛸 Flappy Spaceship – A space twist on the classic Flappy Bird.
+# 🚀 Spaceship Arcade
 
-🚀 Spaceship Defender – A vertical shooter where you protect yourself from enemy ships.
+## 🌌 Overview
 
-A unified main menu lets you easily launch either game.
+**Spaceship Arcade** is a C++ project built with **OpenGL/GLUT**, featuring **two space-themed games in one package**:
 
-✨ Features
-🛸 3D Spaceships with realistic lighting effects
+* 🛸 **Flappy Spaceship** – A space twist on the classic Flappy Bird
+* 🚀 **Spaceship Defender** – A vertical shooter where you protect yourself from enemy ships
 
-🌠 Dynamic Starfield background for an immersive feel
+A **unified main menu** lets you easily launch either game.
 
-🏆 High Score Tracking (saved to text files)
+---
 
-⏸ Pause/Resume anytime during gameplay
+## ✨ Features
 
-⌨ Smooth Keyboard Controls for responsive gameplay
+* 🛸 **3D Spaceships** with realistic lighting effects
+* 🌠 **Dynamic Starfield** background for an immersive feel
+* 🏆 **High Score Tracking** (saved to text files)
+* ⏸ **Pause/Resume** anytime during gameplay
+* ⌨ **Smooth Keyboard Controls** for responsive gameplay
 
-🎮 Included Games
-🛸 1. Flappy Spaceship
-Objective: Pass through space obstacles without crashing.
-Controls:
+---
 
-SPACE – Boost spaceship upward
+## 🎮 Included Games
 
-P – Pause game
+### 🛸 1. Flappy Spaceship
 
-Any key – Restart after game over
+**Objective**: Pass through space obstacles without crashing.
 
-ESC – Return to menu
+**Controls**:
 
-🚀 2. Spaceship Defender
-Objective: Destroy incoming enemy ships before they reach you.
-Controls:
+* **SPACE** – Boost spaceship upward
+* **P** – Pause game
+* **Any key** – Restart after game over
+* **ESC** – Return to menu
 
-Left/Right Arrow – Move spaceship
+---
 
-SPACE – Fire lasers (shotgun spread)
+### 🚀 2. Spaceship Defender
 
-P – Pause game
+**Objective**: Destroy incoming enemy ships before they reach you.
 
-R – Restart game
+**Controls**:
 
-ESC – Return to menu
+* **Left/Right Arrow** – Move spaceship
+* **SPACE** – Fire lasers (shotgun spread)
+* **P** – Pause game
+* **R** – Restart game
+* **ESC** – Return to menu
 
-💻 System Requirements
-Windows OS 🖥
+---
 
-OpenGL & GLUT installed ⚙
+## 💻 System Requirements
 
-Graphics card supporting OpenGL 2.0 or higher 🎨
+* Windows OS 🖥
+* OpenGL & GLUT installed ⚙
+* Graphics card supporting OpenGL 2.0 or higher 🎨
 
-🛠 Installation & Build
-Make sure OpenGL and GLUT are installed on your system.
+---
 
-Open the project in Visual Studio (or any C++ IDE that supports OpenGL).
+## 🛠 Installation & Build
 
-Build the project.
+1. Make sure **OpenGL** and **GLUT** are installed on your system.
+2. Open the project in **Visual Studio** (or any C++ IDE that supports OpenGL).
+3. Build the project.
 
-▶ Running the Game
-Place the game executables (Flappy Spaceship.exe and Spaceship Defender.exe) in the same folder as the Spaceship Arcade Menu executable.
+---
 
-Run Spaceship Arcade Menu.
+## ▶ Running the Game
 
-From the main menu:
+1. Place the game executables (`Flappy Spaceship.exe` and `Spaceship Defender.exe`) in the **same folder** as the **Spaceship Arcade Menu** executable.
+2. Run **Spaceship Arcade Menu**.
+3. From the main menu:
 
-Press 1 to start Flappy Spaceship 🛸
+   * Press **1** to start *Flappy Spaceship* 🛸
+   * Press **2** to start *Spaceship Defender* 🚀
+4. Use the controls listed above to play.
+5. Press **ESC** anytime to return to the menu.
 
-Press 2 to start Spaceship Defender 🚀
+---
 
-Use the controls listed above to play.
+## 🔧 Technical Details
 
-Press ESC anytime to return to the menu.
+* **Language**: C++
+* **Libraries**: OpenGL, GLUT
+* **Graphics**: 3D models, lighting, particle effects
+* **Animation**: Timer-based for smooth performance
+* **Persistence**: High scores saved in text files
 
-🔧 Technical Details
-Language: C++
+---
 
-Libraries: OpenGL, GLUT
+🌠 **Enjoy your space adventure!** 🛸🚀
 
-Graphics: 3D models, lighting, particle effects
+---
 
-Animation: Timer-based for smooth performance
-
-Persistence: High scores saved in text files
-
-
-🌠 Enjoy your space adventure! 🛸🚀
