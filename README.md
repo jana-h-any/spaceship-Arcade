@@ -80,6 +80,12 @@ A **unified main menu** lets you easily launch either game.
 
 ---
 
+## 🎬 Live Demo
+
+[![Watch the video](https://img.youtube.com/vi/A9Q31nXnmRM/maxresdefault.jpg)](https://youtu.be/A9Q31nXnmRM)
+
+---
+
 ## 🔧 Technical Details
 
 * **Language**: C++
